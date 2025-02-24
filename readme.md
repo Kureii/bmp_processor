@@ -26,8 +26,8 @@ The project uses experimental "inverse onion architecture" approach where GUI an
 
 ## Build Requirements
 
-- CMake 3.20+
-- C++20 compatible compiler
+- CMake 3.25+
+- C++23 compatible compiler
 - SDL2 library
 - Git (for cloning)
 
